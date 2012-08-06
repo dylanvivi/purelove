@@ -4,8 +4,8 @@
 .tomcatplugin
 .#webclasspath
 /.settings
-#.classpath
-#.project
+.classpath
+.project
 *.DS_Store
 *.db
 *.swp
