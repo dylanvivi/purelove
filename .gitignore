@@ -5,7 +5,7 @@
 .#webclasspath
 /.settings
 #.classpath
-.project
+#.project
 *.DS_Store
 *.db
 *.swp
