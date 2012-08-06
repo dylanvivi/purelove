@@ -15,7 +15,7 @@
   </properties>
   
   <build>
-    <finalName>data-admin</finalName>
+    <finalName>purelove</finalName>
     <sourceDirectory>src/main/java</sourceDirectory>
 	<testSourceDirectory>src/test/java</testSourceDirectory>
 	<resources>
